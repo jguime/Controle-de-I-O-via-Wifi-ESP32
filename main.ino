@@ -3,8 +3,8 @@
 #include <ESPAsyncWebServer.h>
 
 // Replace with your network credentials
-const char* ssid = "LIVE TIM_R4BJ_2G";
-const char* password = "wlan51d0c7";
+const char* ssid = "xxxxxxxxx";
+const char* password = "xxxxx";
 
 const char* PARAM_INPUT_1 = "output";
 const char* PARAM_INPUT_2 = "state";
